@@ -26,7 +26,13 @@ venv.bak/
 *.csv
 *.json
 *.db
-*.sql
+*.dbf
+*.prj
+*.sbn
+*.sbx
+*.shp
+*.xml
+*.shx
 *.parquet
 
 # Log files
